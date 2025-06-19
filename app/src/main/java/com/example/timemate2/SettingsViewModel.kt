@@ -14,7 +14,7 @@ class SettingsViewModel : ViewModel() {
 
     // Initialization block to set default values
     init {
-        email.value = "Sma123"      // Default email value (can be updated by user input)
+        email.value = "Sma@gmail.com"      // Default email value (can be updated by user input)
         password.value = ""         // Default password value (empty at start)
     }
 }
