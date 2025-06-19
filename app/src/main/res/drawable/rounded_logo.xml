@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!--Logo Radius-->
+    <solid android:color="#0A5A2A" /> <!-- optional: set a fill color -->
+    <corners android:radius="10dp" />
+
+</shape>
